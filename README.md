@@ -1,13 +1,13 @@
 # Gym - Website Template
 
-![Titan Fit Hero](./public/Screenshot.png)
+![Amer Fit](./public/Screenshot.png)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-FFB800?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
 
-**Titan Fit** is a high-end, cinematic landing page designed for elite fitness brands and luxury gyms. It combines aggressive typography, minimalist monochrome aesthetics, and smooth, high-performance animations to create a world-class user experience.
+**Amer Fit** is a high-end, cinematic landing page designed for elite fitness brands and luxury gyms. It combines aggressive typography, minimalist monochrome aesthetics, and smooth, high-performance animations to create a world-class user experience.
 
 ---
 
@@ -39,12 +39,12 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/titan-fit-luxury-gym.git
+   git clone https://github.com/your-username/amer-fit.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd titan-fit-luxury-gym
+   cd amer-fit
    ```
 
 3. **Install dependencies:**
@@ -60,7 +60,7 @@
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Landing](./public/readme/Screenshot.png)
+![Desktop Landing](./public/Screenshot.png)
 
 ## 📄 License
 
@@ -78,4 +78,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-Built with 🔥 by [Your Name]
+Built with 🔥 by Momen Shehadeh
