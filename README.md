@@ -1,6 +1,6 @@
 # Gym - Website Template
 
-[Live Here : ](https://amer-fit.vercel.app/)
+[Live Here](https://amer-fit.vercel.app/)
 
 ![Amer Fit](./public/Screenshot.png)
 
